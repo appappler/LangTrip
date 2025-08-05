@@ -4,16 +4,16 @@
 <br/>
 
 ## 📑 목차
-- [📝 프로젝트 소개](#프로젝트-소개)
-- [🛠 기술 스택](#기술-스택)
+- [📝 프로젝트 소개](#project-intro)
+- [🛠 기술 스택](#tech-stack)
 - [💾 ERD](#erd)
-- [✨ 주요 기능 소개](#주요-기능-소개)
-- [🎬 시연영상](#시연영상)
-- [💁‍♂️ 팀원 소개](#팀원-소개)
+- [✨ 주요 기능 소개](#main-features)
+- [🎬 시연영상](#demo-video)
+- [💁‍♂️ 팀원 소개](#team-members)
 
 ---
 
-## 📝 프로젝트 소개
+<h2 id="project-intro">📝 프로젝트 소개</h2>
 **LinguaLink**는 외국어 학습에 특화된 이러닝 플랫폼으로, 누구나 강의자가 될 수 있고  
 쌍방향 후원 및 커뮤니티 소통이 가능한 학습 생태계를 지향합니다.  
 
@@ -29,7 +29,7 @@
 
 <br/>
 
-## 🛠 기술 스택
+<h2 id="tech-stack">🛠 기술 스택</h2>
 
 ### Backend
 - **Language**: Java (JDK 11)
@@ -58,12 +58,12 @@
 
 <br/>
 
-## 💾 ERD
+<h2 id="erd">💾 ERD</h2>
 <img width="100%" alt="ERD 다이어그램" src="https://github.com/user-attachments/assets/f0ba515b-d418-42e6-aa02-752b166372e5" />
 
 <br/>
 
-## ✨ 주요 기능 소개
+<h2 id="main-features">✨ 주요 기능 소개</h2>
 
 ### 👥 사용자 기능
 - 📚 강의 등록 및 수강 (일반 사용자도 강의 개설 가능)  
@@ -83,12 +83,12 @@
 
 <br/>
 
-## 🎬 시연영상
+<h2 id="demo-video">🎬 시연영상</h2>
 [![YouTube Video](http://img.youtube.com/vi/rfvgqpy11yg/0.jpg)](https://www.youtube.com/watch?v=rfvgqpy11yg)
 
 <br/>
 
-## 💁‍♂️ 팀원 소개
+<h2 id="team-members">💁‍♂️ 팀원 소개</h2>
 
 - **김민진** [팀장 / DBA]  
   - 프로젝트 전체 아키텍처 및 DB 통합  
