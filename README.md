@@ -1,7 +1,5 @@
 # 🌐 LinguaLink - Spring Boot 기반 외국어 이러닝 플랫폼
 <img width="733" height="524" alt="프로젝트 대표 이미지" src="https://github.com/user-attachments/assets/e3122149-7951-4333-a8e1-299c0e8d1c14" />
-<img width="733" height="512" alt="image" src="https://github.com/user-attachments/assets/ae506cb9-1909-4147-bafe-433a9d6f7063" />
-<img width="733" height="705" alt="image" src="https://github.com/user-attachments/assets/75dcff70-5565-4b3f-bb53-360e6e5a2893" />
 
 <br/>
 
