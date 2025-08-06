@@ -133,5 +133,5 @@
   
 <br/>
 
-© 2024 LinguaLink Project Team. 본 프로젝트는 교육 목적으로 개발되었습니다.  
+© 2024 LangTrip Project Team. 본 프로젝트는 교육 목적으로 개발되었습니다.  
 🙋 README 작성: 김민진
