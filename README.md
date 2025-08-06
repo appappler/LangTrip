@@ -1,4 +1,4 @@
-# 🌐 LinguaLink - Spring Boot 기반 외국어 이러닝 플랫폼
+# 🌐 LangTrip - 외국어 이러닝 플랫폼
 <img width="733" height="524" alt="프로젝트 대표 이미지" src="https://github.com/user-attachments/assets/e3122149-7951-4333-a8e1-299c0e8d1c14" />
 
 <br/>
