@@ -59,7 +59,8 @@
 <br/>
 
 <h2 id="erd">💾 ERD</h2>
-<img width="100%" alt="ERD 다이어그램" src="https://github.com/user-attachments/assets/f0ba515b-d418-42e6-aa02-752b166372e5" />
+<img width="4450" height="2457" alt="4조_ERD" src="https://github.com/user-attachments/assets/d17ad19d-07c6-4ba7-bd43-4d73edd1f91e" />
+
 
 <br/>
 
@@ -133,5 +134,8 @@
   
 <br/>
 
-© 2025 LangTrip Project Team. 본 프로젝트는 교육 목적으로 개발되었습니다.  
-🙋 README 작성: 김민진
+---
+
+**© 2025 Donutted Project Team. 본 프로젝트는 교육 목적으로 개발되었습니다.**
+
+> 🙋 README 작성: 김민진
